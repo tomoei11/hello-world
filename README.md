@@ -1,4 +1,4 @@
-# hello-world
+# self introduction
 Hi. 
 I'm a graduate school student major in Information statistical mechanics.
 I prefer some methods of Bayesian learning.
